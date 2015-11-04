@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HereIAm</string>
+
+    <string name="btn_name">我在这里，发送位置</string>
+    <string name="action_settings">Settings</string>
+</resources>
